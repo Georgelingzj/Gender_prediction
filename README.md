@@ -10,7 +10,11 @@
 - tensorflow 1.14.0
 
 
-
+### How to work(current)
+- original pics store in  folder *original_face*
+- run main.py(align and resize pics)
+- processed pics store in *processed_face*
+- run train_x.py
 
 ### description
 
