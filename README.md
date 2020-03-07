@@ -21,7 +21,7 @@
 
 -------
 ### still on progress
-- by now the average accuracy is 0.98
+
 - Need for testing
 - try to make a user interface
 
